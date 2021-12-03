@@ -1,0 +1,14 @@
+.\Obj\isp_iap.o: ISP\isp_iap.c
+.\Obj\isp_iap.o: C:\Keil\UV4\ARM\Inc\NXP\LPC17xx\LPC17XX.H
+.\Obj\isp_iap.o: C:\Keil\UV4\ARM\CMSIS\Include\core_cm3.h
+.\Obj\isp_iap.o: C:\Keil\UV4\ARM\RV31\Inc\stdint.h
+.\Obj\isp_iap.o: C:\Keil\UV4\ARM\CMSIS\Include\core_cmInstr.h
+.\Obj\isp_iap.o: C:\Keil\UV4\ARM\CMSIS\Include\core_cmFunc.h
+.\Obj\isp_iap.o: C:\Keil\UV4\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\Obj\isp_iap.o: ISP\isp_iap.h
+.\Obj\isp_iap.o: ISP\comms.h
+.\Obj\isp_iap.o: ISP\sbl_config.h
+.\Obj\isp_iap.o: ISP\Memory.h
+.\Obj\isp_iap.o: ISP\../Drivers/Wdt.h
+.\Obj\isp_iap.o: ISP\../Drivers/Delay.h
+.\Obj\isp_iap.o: ISP\../Drivers/Type.h

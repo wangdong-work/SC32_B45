@@ -1,0 +1,62 @@
+*** Creating Trace Output File '.\Obj\MB1C6U111.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\startup_lpc17xx.o"'
+### List of Objects: adding '".\obj\system_lpc17xx.o"'
+### List of Objects: adding '".\obj\rtx_config.o"'
+### List of Objects: adding '".\obj\adconvert.o"'
+### List of Objects: adding '".\obj\att7022eu.o"'
+### List of Objects: adding '".\obj\can.o"'
+### List of Objects: adding '".\obj\dataflash.o"'
+### List of Objects: adding '".\obj\delay.o"'
+### List of Objects: adding '".\obj\irigb.o"'
+### List of Objects: adding '".\obj\key.o"'
+### List of Objects: adding '".\obj\lcd.o"'
+### List of Objects: adding '".\obj\pinconfig.o"'
+### List of Objects: adding '".\obj\relay.o"'
+### List of Objects: adding '".\obj\rtc.o"'
+### List of Objects: adding '".\obj\switch.o"'
+### List of Objects: adding '".\obj\uart_device.o"'
+### List of Objects: adding '".\obj\usb.o"'
+### List of Objects: adding '".\obj\wdt.o"'
+### List of Objects: adding '".\obj\att7022eutask.o"'
+### List of Objects: adding '".\obj\backstage.o"'
+### List of Objects: adding '".\obj\backstagetable.o"'
+### List of Objects: adding '".\obj\batterymanage.o"'
+### List of Objects: adding '".\obj\bscdt.o"'
+### List of Objects: adding '".\obj\bsmodbus.o"'
+### List of Objects: adding '".\obj\cancomm.o"'
+### List of Objects: adding '".\obj\candcdccomm.o"'
+### List of Objects: adding '".\obj\com1comm.o"'
+### List of Objects: adding '".\obj\comparetime.o"'
+### List of Objects: adding '".\obj\crc.o"'
+### List of Objects: adding '".\obj\dccollect.o"'
+### List of Objects: adding '".\obj\display.o"'
+### List of Objects: adding '".\obj\displaystring.o"'
+### List of Objects: adding '".\obj\encry.o"'
+### List of Objects: adding '".\obj\fault.o"'
+### List of Objects: adding '".\obj\faultid.o"'
+### List of Objects: adding '".\obj\fetchflash.o"'
+### List of Objects: adding '".\obj\keytask.o"'
+### List of Objects: adding '".\obj\loadfile.o"'
+### List of Objects: adding '".\obj\log.o"'
+### List of Objects: adding '".\obj\main.o"'
+### List of Objects: adding '".\obj\publicdata.o"'
+### List of Objects: adding '".\obj\switchtsak.o"'
+### List of Objects: adding '".\obj\wdttask.o"'
+### List of Objects: adding '".\obj\bsinternal.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\obj\startup_lpc17xx.o" ".\obj\system_lpc17xx.o" ".\obj\rtx_config.o" ".\obj\adconvert.o" ".\obj\att7022eu.o" ".\obj\can.o" ".\obj\dataflash.o" ".\obj\delay.o" ".\obj\irigb.o" ".\obj\key.o" ".\obj\lcd.o" ".\obj\pinconfig.o" ".\obj\relay.o" ".\obj\rtc.o" ".\obj\switch.o" ".\obj\uart_device.o" ".\obj\usb.o" ".\obj\wdt.o" ".\obj\att7022eutask.o" ".\obj\backstage.o" ".\obj\backstagetable.o" ".\obj\batterymanage.o" ".\obj\bscdt.o" ".\obj\bsmodbus.o" ".\obj\cancomm.o" ".\obj\candcdccomm.o" ".\obj\com1comm.o" ".\obj\comparetime.o" ".\obj\crc.o" ".\obj\dccollect.o" ".\obj\display.o" ".\obj\displaystring.o" ".\obj\encry.o" ".\obj\fault.o" ".\obj\faultid.o" ".\obj\fetchflash.o" ".\obj\keytask.o" ".\obj\loadfile.o" ".\obj\log.o" ".\obj\main.o" ".\obj\publicdata.o" ".\obj\switchtsak.o" ".\obj\wdttask.o" ".\obj\bsinternal.o" C:\Keil\UV4\ARM\RV31\Lib\RTX_CM3.LIB --library_type=microlib --strict --scatter ".\Obj\MB1C6U111.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\MB1C6U111.map" -o ".\Obj\MB1C6U111.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\Obj\MB1C6U111.axf'
+### ADS-LD Command File: '.\Obj\MB1C6U111.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\Obj\MB1C6U111.lnp', Handle=0x00000474
+### Writing '.lnp' file
+### ADS-LD Command file '.\Obj\MB1C6U111.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

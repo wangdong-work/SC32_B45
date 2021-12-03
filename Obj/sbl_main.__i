@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil\UV4\ARM\RV31\Inc -I C:\Keil\UV4\ARM\CMSIS\Include -I C:\Keil\UV4\ARM\Inc\NXP\LPC17xx -o ".\Obj\sbl_main.o" --omf_browse ".\Obj\sbl_main.crf" --depend ".\Obj\sbl_main.d" "ISP\sbl_main.c"
