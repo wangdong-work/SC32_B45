@@ -26,9 +26,9 @@ Copyright (C), 深圳英可瑞科技开发有限公司
 #define BS_TYPE_F32 2
 #define BS_TYPE_S16 3
 
-#define BS_YC_SIZE  911//898      //遥测条目个数，实测的索引号总数：911,2021-12-05
-#define BS_YX_SIZE  2439//2528//2304     //遥信条目个数，实测的索引号总数：2439,2021-12-05
-#define BS_YK_SIZE  50//82//26       //遥控条目个数，实测的索引号总数：50,2021-12-05
+#define BS_YC_SIZE  922//898      //遥测条目个数
+#define BS_YX_SIZE  2544//2528//2304     //遥信条目个数
+#define BS_YK_SIZE  114//82//26       //遥控条目个数
 #define BS_YT_SIZE  2        //遥调条目个数
 
 #define BS_ITEM_SIZE 4       //点表条目的字节数

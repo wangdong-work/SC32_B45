@@ -40562,7 +40562,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关1状态查询，索引2456
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[20]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[0]),
 		0x0001,
 		BS_TYPE_U8,
 		13385,
@@ -40574,7 +40574,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关2状态查询，索引2457
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[21]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[1]),
 		0x0001,
 		BS_TYPE_U8,
 		13386,
@@ -40586,7 +40586,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关3状态查询，索引2458
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[22]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[2]),
 		0x0001,
 		BS_TYPE_U8,
 		13387,
@@ -40598,7 +40598,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关4状态查询，索引2459
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[23]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[3]),
 		0x0001,
 		BS_TYPE_U8,
 		13388,
@@ -40610,7 +40610,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关5状态查询，索引2460
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[24]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[4]),
 		0x0001,
 		BS_TYPE_U8,
 		13389,
@@ -40622,7 +40622,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关6状态查询，索引2461
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[25]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[5]),
 		0x0001,
 		BS_TYPE_U8,
 		13390,
@@ -40634,7 +40634,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关7状态查询，索引2462
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[26]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[6]),
 		0x0001,
 		BS_TYPE_U8,
 		13391,
@@ -40646,7 +40646,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关8状态查询，索引2463
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[27]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[7]),
 		0x0001,
 		BS_TYPE_U8,
 		13392,
@@ -40658,7 +40658,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关9状态查询，索引2464
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[28]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[8]),
 		0x0001,
 		BS_TYPE_U8,
 		13393,
@@ -40670,7 +40670,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关10状态查询，索引2465
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[29]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[9]),
 		0x0001,
 		BS_TYPE_U8,
 		13394,
@@ -40682,7 +40682,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关11状态查询，索引2466
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[30]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[10]),
 		0x0001,
 		BS_TYPE_U8,
 		13395,
@@ -40694,7 +40694,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关12状态查询，索引2467
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[31]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[11]),
 		0x0001,
 		BS_TYPE_U8,
 		13396,
@@ -40706,7 +40706,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关13状态查询，索引2468
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[32]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[12]),
 		0x0001,
 		BS_TYPE_U8,
 		13397,
@@ -40718,7 +40718,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关14状态查询，索引2469
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[33]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[13]),
 		0x0001,
 		BS_TYPE_U8,
 		13398,
@@ -40730,7 +40730,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关15状态查询，索引2470
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[34]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[14]),
 		0x0001,
 		BS_TYPE_U8,
 		13399,
@@ -40742,7 +40742,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关16状态查询，索引2471
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[35]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[15]),
 		0x0001,
 		BS_TYPE_U8,
 		13400,
@@ -40754,7 +40754,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关17状态查询，索引2472
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[36]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[16]),
 		0x0001,
 		BS_TYPE_U8,
 		13401,
@@ -40766,7 +40766,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关18状态查询，索引2473
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[37]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[17]),
 		0x0001,
 		BS_TYPE_U8,
 		13402,
@@ -40778,7 +40778,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关19状态查询，索引2474
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[38]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[18]),
 		0x0001,
 		BS_TYPE_U8,
 		13403,
@@ -40790,7 +40790,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关20状态查询，索引2475
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[39]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[19]),
 		0x0001,
 		BS_TYPE_U8,
 		13404,
@@ -40799,7 +40799,858 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 		NULL,
 		NULL,
 	},
+	
+	//系统电操开关21状态查询，索引2476
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[0]),
+		0x0001,
+		BS_TYPE_U8,
+		13405,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关22状态查询，索引2477
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[1]),
+		0x0001,
+		BS_TYPE_U8,
+		13406,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关23状态查询，索引2478
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[2]),
+		0x0001,
+		BS_TYPE_U8,
+		13407,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关24状态查询，索引2479
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[3]),
+		0x0001,
+		BS_TYPE_U8,
+		13408,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关25状态查询，索引2480
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[4]),
+		0x0001,
+		BS_TYPE_U8,
+		13409,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关26状态查询，索引2481
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[5]),
+		0x0001,
+		BS_TYPE_U8,
+		13410,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关27状态查询，索引2482
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[6]),
+		0x0001,
+		BS_TYPE_U8,
+		13411,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关28状态查询，索引2483
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[7]),
+		0x0001,
+		BS_TYPE_U8,
+		13412,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关29状态查询，索引2484
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[8]),
+		0x0001,
+		BS_TYPE_U8,
+		13413,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关30状态查询，索引2485
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[9]),
+		0x0001,
+		BS_TYPE_U8,
+		13414,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关31状态查询，索引2486
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[10]),
+		0x0001,
+		BS_TYPE_U8,
+		13415,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关32状态查询，索引2487
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[11]),
+		0x0001,
+		BS_TYPE_U8,
+		13416,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关33状态查询，索引2488
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[12]),
+		0x0001,
+		BS_TYPE_U8,
+		13417,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关34状态查询，索引2489
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[13]),
+		0x0001,
+		BS_TYPE_U8,
+		13418,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关35状态查询，索引2490
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[14]),
+		0x0001,
+		BS_TYPE_U8,
+		13419,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关36状态查询，索引2491
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[15]),
+		0x0001,
+		BS_TYPE_U8,
+		13420,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关37状态查询，索引2492
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[16]),
+		0x0001,
+		BS_TYPE_U8,
+		13421,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关38状态查询，索引2493
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[17]),
+		0x0001,
+		BS_TYPE_U8,
+		13422,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关39状态查询，索引2494
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[18]),
+		0x0001,
+		BS_TYPE_U8,
+		13423,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关40状态查询，索引2495
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[19]),
+		0x0001,
+		BS_TYPE_U8,
+		13424,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关41状态查询，索引2496
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[20]),
+		0x0001,
+		BS_TYPE_U8,
+		13425,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关42状态查询，索引2497
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[21]),
+		0x0001,
+		BS_TYPE_U8,
+		13426,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关43状态查询，索引2498
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[22]),
+		0x0001,
+		BS_TYPE_U8,
+		13427,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关44状态查询，索引2499
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[23]),
+		0x0001,
+		BS_TYPE_U8,
+		13428,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关45状态查询，索引2500
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[24]),
+		0x0001,
+		BS_TYPE_U8,
+		13429,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关46状态查询，索引2501
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[25]),
+		0x0001,
+		BS_TYPE_U8,
+		13430,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关47状态查询，索引2502
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[26]),
+		0x0001,
+		BS_TYPE_U8,
+		13431,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关48状态查询，索引2503
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[27]),
+		0x0001,
+		BS_TYPE_U8,
+		13432,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关49状态查询，索引2504
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[28]),
+		0x0001,
+		BS_TYPE_U8,
+		13433,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关50状态查询，索引2505
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[29]),
+		0x0001,
+		BS_TYPE_U8,
+		13434,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关51状态查询，索引2506
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[30]),
+		0x0001,
+		BS_TYPE_U8,
+		13435,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关52状态查询，索引2507
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[31]),
+		0x0001,
+		BS_TYPE_U8,
+		13436,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关53状态查询，索引2508
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[32]),
+		0x0001,
+		BS_TYPE_U8,
+		13437,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关54状态查询，索引2509
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[33]),
+		0x0001,
+		BS_TYPE_U8,
+		13438,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关55状态查询，索引2510
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[34]),
+		0x0001,
+		BS_TYPE_U8,
+		13439,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关56状态查询，索引2511
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[35]),
+		0x0001,
+		BS_TYPE_U8,
+		13440,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关57状态查询，索引2512
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[36]),
+		0x0001,
+		BS_TYPE_U8,
+		13441,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关58状态查询，索引2513
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[37]),
+		0x0001,
+		BS_TYPE_U8,
+		13442,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关59状态查询，索引2514
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[38]),
+		0x0001,
+		BS_TYPE_U8,
+		13443,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关60状态查询，索引2515
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[39]),
+		0x0001,
+		BS_TYPE_U8,
+		13444,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关61状态查询，索引2516
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[40]),
+		0x0001,
+		BS_TYPE_U8,
+		13445,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关62状态查询，索引2517
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[41]),
+		0x0001,
+		BS_TYPE_U8,
+		13446,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关63状态查询，索引2518
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[42]),
+		0x0001,
+		BS_TYPE_U8,
+		13447,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关64状态查询，索引2519
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[43]),
+		0x0001,
+		BS_TYPE_U8,
+		13448,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关65状态查询，索引2520
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[44]),
+		0x0001,
+		BS_TYPE_U8,
+		13449,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关66状态查询，索引2521
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[45]),
+		0x0001,
+		BS_TYPE_U8,
+		13450,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关67状态查询，索引2522
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[46]),
+		0x0001,
+		BS_TYPE_U8,
+		13451,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关68状态查询，索引2523
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[47]),
+		0x0001,
+		BS_TYPE_U8,
+		13452,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+		
+	//系统电操开关69状态查询，索引2524
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[48]),
+		0x0001,
+		BS_TYPE_U8,
+		13453,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关70状态查询，索引2525
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[49]),
+		0x0001,
+		BS_TYPE_U8,
+		13454,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关71状态查询，索引2526
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[50]),
+		0x0001,
+		BS_TYPE_U8,
+		13455,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关72状态查询，索引2527
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[51]),
+		0x0001,
+		BS_TYPE_U8,
+		13456,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
 
+	//系统电操开关73状态查询，索引2528
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[52]),
+		0x0001,
+		BS_TYPE_U8,
+		13457,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关74状态查询，索引2529
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[53]),
+		0x0001,
+		BS_TYPE_U8,
+		13458,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关75状态查询，索引2530
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[54]),
+		0x0001,
+		BS_TYPE_U8,
+		13459,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关76状态查询，索引2531
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[55]),
+		0x0001,
+		BS_TYPE_U8,
+		13460,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关77状态查询，索引2532
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[56]),
+		0x0001,
+		BS_TYPE_U8,
+		13461,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关78状态查询，索引2533
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[57]),
+		0x0001,
+		BS_TYPE_U8,
+		13462,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+		
+	//系统电操开关79状态查询，索引2534
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[58]),
+		0x0001,
+		BS_TYPE_U8,
+		13463,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关80状态查询，索引2535
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[59]),
+		0x0001,
+		BS_TYPE_U8,
+		13464,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关81状态查询，索引2536
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[60]),
+		0x0001,
+		BS_TYPE_U8,
+		13465,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+
+	//系统电操开关82状态查询，索引2537
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[61]),
+		0x0001,
+		BS_TYPE_U8,
+		13466,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+
+	//系统电操开关83状态查询，索引2538
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[62]),
+		0x0001,
+		BS_TYPE_U8,
+		13467,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关84状态查询，索引2539
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[63]),
+		0x0001,
+		BS_TYPE_U8,
+		13468,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+	
+	//系统电操开关85状态查询，索引2540
+	{
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[64]),
+		0x0001,
+		BS_TYPE_U8,
+		13469,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+
+	//系统电操开关86状态查询，索引2541
+	{
+		&(g_t_share_data.t_rt_data.t_ac_panel.t_ac10.u8_swt_state[0]),
+		0x0001,
+		BS_TYPE_U8,
+		13470,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+
+	//系统电操开关87状态查询，索引2542
+	{
+		&(g_t_share_data.t_rt_data.t_ac_panel.t_ac10.u8_swt_state[1]),
+		0x0001,
+		BS_TYPE_U8,
+		13471,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+
+	//系统电操开关88状态查询，索引2543
+	{
+		&(g_t_share_data.t_rt_data.t_ac_panel.t_ac10.u8_swt_state[2]),
+		0x0001,
+		BS_TYPE_U8,
+		13472,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+
+	//系统电操开关89状态查询，索引2544
+	{
+		&(g_t_share_data.t_rt_data.t_ac_panel.t_ac10.u8_swt_state[3]),
+		0x0001,
+		BS_TYPE_U8,
+		13473,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+
+	//系统电操开关90状态查询，索引2545
+	{
+		&(g_t_share_data.t_rt_data.t_ac_panel.t_ac10.u8_swt_state[4]),
+		0x0001,
+		BS_TYPE_U8,
+		13474,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
+
+	//系统电操开关91状态查询，索引2546
+	{
+		&(g_t_share_data.t_rt_data.t_ac_panel.t_ac10.u8_swt_state[5]),
+		0x0001,
+		BS_TYPE_U8,
+		13475,
+		1,
+		0,
+		NULL,
+		NULL,
+	},
 	
 };
 
@@ -41258,6 +42109,581 @@ const YK_ASSEMBLE_T g_t_yk_assemble[BS_YK_SIZE] =
 		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
 	},
 	
+	//4#RC10模块1#开关控制，索引50
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[3].u8_swt_ctrl[0]),                  //pv_val
+		13620,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		4,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//4#RC10模块2#开关控制，索引51
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[3].u8_swt_ctrl[1]),                  //pv_val
+		13621,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		4,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//4#RC10模块3#开关控制，索引52
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[3].u8_swt_ctrl[2]),                  //pv_val
+		13622,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		4,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//4#RC10模块4#开关控制，索引53
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[3].u8_swt_ctrl[3]),                  //pv_val
+		13623,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		4,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//4#RC10模块5#开关控制，索引54
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[3].u8_swt_ctrl[4]),                  //pv_val
+		13624,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		4,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//4#RC10模块6#开关控制，索引55
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[3].u8_swt_ctrl[5]),                  //pv_val
+		13625,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		4,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//4#RC10模块7#开关控制，索引56
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[3].u8_swt_ctrl[6]),                  //pv_val
+		13626,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		4,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//4#RC10模块8#开关控制，索引57
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[3].u8_swt_ctrl[7]),                  //pv_val
+		13627,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		4,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//5#RC10模块1#开关控制，索引58
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[4].u8_swt_ctrl[0]),                  //pv_val
+		13628,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		5,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//5#RC10模块2#开关控制，索引59
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[4].u8_swt_ctrl[1]),                  //pv_val
+		13629,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		5,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//5#RC10模块3#开关控制，索引60
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[4].u8_swt_ctrl[2]),                  //pv_val
+		13630,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		5,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//5#RC10模块4#开关控制，索引61
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[4].u8_swt_ctrl[3]),                  //pv_val
+		13631,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		5,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//5#RC10模块5#开关控制，索引62
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[4].u8_swt_ctrl[4]),                  //pv_val
+		13632,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		5,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//5#RC10模块6#开关控制，索引63
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[4].u8_swt_ctrl[5]),                  //pv_val
+		13633,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		5,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//5#RC10模块7#开关控制，索引64
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[4].u8_swt_ctrl[6]),                  //pv_val
+		13634,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		5,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//5#RC10模块8#开关控制，索引65
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[4].u8_swt_ctrl[7]),                  //pv_val
+		13635,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		5,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//6#RC10模块1#开关控制，索引66
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[5].u8_swt_ctrl[0]),                  //pv_val
+		13636,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		6,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//6#RC10模块2#开关控制，索引67
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[5].u8_swt_ctrl[1]),                  //pv_val
+		13637,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		6,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//6#RC10模块3#开关控制，索引68
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[5].u8_swt_ctrl[2]),                  //pv_val
+		13638,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		6,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//6#RC10模块4#开关控制，索引69
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[5].u8_swt_ctrl[3]),                  //pv_val
+		13639,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		6,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//6#RC10模块5#开关控制，索引70
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[5].u8_swt_ctrl[4]),                  //pv_val
+		13640,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		6,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//6#RC10模块6#开关控制，索引71
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[5].u8_swt_ctrl[5]),                  //pv_val
+		13641,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		6,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//6#RC10模块7#开关控制，索引72
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[5].u8_swt_ctrl[6]),                  //pv_val
+		13642,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		6,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//6#RC10模块8#开关控制，索引73
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[5].u8_swt_ctrl[7]),                  //pv_val
+		13643,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		6,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//7#RC10模块1#开关控制，索引74
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[6].u8_swt_ctrl[0]),                  //pv_val
+		13644,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		7,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//7#RC10模块2#开关控制，索引75
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[6].u8_swt_ctrl[1]),                  //pv_val
+		13645,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		7,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//7#RC10模块3#开关控制，索引76
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[6].u8_swt_ctrl[2]),                  //pv_val
+		13646,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		7,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//7#RC10模块4#开关控制，索引77
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[6].u8_swt_ctrl[3]),                  //pv_val
+		13647,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		7,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//7#RC10模块5#开关控制，索引78
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[6].u8_swt_ctrl[4]),                  //pv_val
+		13648,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		7,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//7#RC10模块6#开关控制，索引79
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[6].u8_swt_ctrl[5]),                  //pv_val
+		13649,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		7,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//7#RC10模块7#开关控制，索引80
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[6].u8_swt_ctrl[6]),                  //pv_val
+		13650,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		7,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//7#RC10模块8#开关控制，索引81
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[6].u8_swt_ctrl[7]),                  //pv_val
+		13651,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		7,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+
+	//8#RC10模块1#开关控制，索引82
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[7].u8_swt_ctrl[0]),                  //pv_val
+		13652,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		8,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//8#RC10模块2#开关控制，索引83
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[7].u8_swt_ctrl[1]),                  //pv_val
+		13653,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		8,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//8#RC10模块3#开关控制，索引84
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[7].u8_swt_ctrl[2]),                  //pv_val
+		13654,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		8,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//8#RC10模块4#开关控制，索引85
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[7].u8_swt_ctrl[3]),                  //pv_val
+		13655,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		8,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//8#RC10模块5#开关控制，索引86
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[7].u8_swt_ctrl[4]),                  //pv_val
+		13656,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		8,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//8#RC10模块6#开关控制，索引87
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[7].u8_swt_ctrl[5]),                  //pv_val
+		13657,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		8,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//8#RC10模块7#开关控制，索引88
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[7].u8_swt_ctrl[6]),                  //pv_val
+		13658,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		8,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//8#RC10模块8#开关控制，索引89
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[7].u8_swt_ctrl[7]),                  //pv_val
+		13659,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		8,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+
+	//9#RC10模块1#开关控制，索引90
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[8].u8_swt_ctrl[0]),                  //pv_val
+		13660,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		9,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//9#RC10模块2#开关控制，索引91
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[8].u8_swt_ctrl[1]),                  //pv_val
+		13661,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		9,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//9#RC10模块3#开关控制，索引92
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[8].u8_swt_ctrl[2]),                  //pv_val
+		13662,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		9,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//9#RC10模块4#开关控制，索引93
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[8].u8_swt_ctrl[3]),                  //pv_val
+		13663,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		9,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//9#RC10模块5#开关控制，索引94
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[8].u8_swt_ctrl[4]),                  //pv_val
+		13664,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		9,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//9#RC10模块6#开关控制，索引95
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[8].u8_swt_ctrl[5]),                  //pv_val
+		13665,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		9,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//9#RC10模块7#开关控制，索引96
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[8].u8_swt_ctrl[6]),                  //pv_val
+		13666,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		9,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//9#RC10模块8#开关控制，索引97
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[8].u8_swt_ctrl[7]),                  //pv_val
+		13667,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		9,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+
+	//10#RC10模块1#开关控制，索引98
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[9].u8_swt_ctrl[0]),                  //pv_val
+		13668,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		10,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//10#RC10模块2#开关控制，索引99
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[9].u8_swt_ctrl[1]),                  //pv_val
+		13669,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		10,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//10#RC10模块3#开关控制，索引100
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[9].u8_swt_ctrl[2]),                  //pv_val
+		13670,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		10,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//10#RC10模块4#开关控制，索引101
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[9].u8_swt_ctrl[3]),                  //pv_val
+		13671,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		10,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//10#RC10模块5#开关控制，索引102
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[9].u8_swt_ctrl[4]),                  //pv_val
+		13672,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		10,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//10#RC10模块6#开关控制，索引103
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[9].u8_swt_ctrl[5]),                  //pv_val
+		13673,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		10,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//10#RC10模块7#开关控制，索引104
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[9].u8_swt_ctrl[6]),                  //pv_val
+		13674,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		10,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//10#RC10模块8#开关控制，索引105
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[9].u8_swt_ctrl[7]),                  //pv_val
+		13675,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		10,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+
+	//11#RC10模块1#开关控制，索引106
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[10].u8_swt_ctrl[0]),                  //pv_val
+		13676,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		11,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//11#RC10模块2#开关控制，索引107
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[10].u8_swt_ctrl[1]),                  //pv_val
+		13677,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		11,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//11#RC10模块3#开关控制，索引108
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[10].u8_swt_ctrl[2]),                  //pv_val
+		13678,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		11,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//11#RC10模块4#开关控制，索引109
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[10].u8_swt_ctrl[3]),                  //pv_val
+		13679,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		11,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//11#RC10模块5#开关控制，索引110
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[10].u8_swt_ctrl[4]),                  //pv_val
+		13680,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		11,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//11#RC10模块6#开关控制，索引111
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[10].u8_swt_ctrl[5]),                  //pv_val
+		13681,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		11,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//11#RC10模块7#开关控制，索引112
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[10].u8_swt_ctrl[6]),                  //pv_val
+		13682,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		11,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
+	
+	//11#RC10模块8#开关控制，索引113
+	{
+		&(g_t_share_data.t_sys_cfg.t_swt_ctrl[10].u8_swt_ctrl[7]),                  //pv_val
+		13683,                                                                //u16_id
+		BS_TYPE_U8,                                                          //u8_type
+		11,                                                                   //u8_major_val
+		&(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num)             //pu8_major_condition
+	},
 };
 
 
