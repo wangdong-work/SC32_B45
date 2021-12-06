@@ -78,7 +78,7 @@ pf       power factor 功率因数
 #define SWT_CTRL_MAX           (RC10_NODE_MAX / 2)   // RC10模块开关控制最大数量
 #define TTL_SWT_CTRL_MAX       (RC10_MODULE_MAX * SWT_CTRL_MAX)     // 理论上可通过RC10控制的最大开关总数量
 
-#define FACT_SWT_CTRL_MAX      (3 * SWT_CTRL_MAX)	//实际定义可控开关路数
+#define FACT_SWT_CTRL_MAX      (11 * SWT_CTRL_MAX)	//实际定义可控开关路数
 
 #define	BATT_CURR_FROM_SENSOR	0		//1表示电池电流由DC10的传感器测量，	0表示由DC10的分流器测量
 
@@ -1017,7 +1017,7 @@ typedef struct
 	U8_T u8_state[SWT_BRANCH_MAX];                       //开关状态量，1：闭合，0：断开
 	U8_T u8_alm[SWT_BRANCH_MAX];                         //开关告警量，1：告警，0：不告警
 
-#define	ECSWT_MAX_NUM_FROM_FDL		(11 * SWT_CTRL_MAX)
+#define	ECSWT_MAX_NUM_FROM_FDL		FACT_SWT_CTRL_MAX
 	U8_T u8_fdl_swt_state[ECSWT_MAX_NUM_FROM_FDL];       //开关状态量，1：闭合，0：断开，由FC10模块测量到的开关状态值
 }SWT_RT_DATA_T;
 

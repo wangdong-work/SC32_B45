@@ -1146,7 +1146,7 @@ static const MMI_WIN_T m_t_win_array[MMI_WIN_MAX_CNT] =
 			{ 194,            9,         68,        201,           110,      68,       MMI_VAL_TYPE_ENUM,      0,           4,           &(g_t_share_data.t_sys_cfg.t_dc_panel.t_dc.e_diode_chain_ctl) },
 			{ 196,            9,         81,        0,             110,      81,       MMI_VAL_TYPE_U8,        0,           4,           &(g_t_share_data.t_sys_cfg.t_sys_param.u8_dc_feeder_panel_num) },  
 			{  48,            9,         94,        0,             110,      94,       MMI_VAL_TYPE_U8,        0,           4,           &(g_t_share_data.t_sys_cfg.t_sys_param.u8_dc2_feeder_panel_num) },
-			{ 610,            9,         107,       0,             110,      107,      MMI_VAL_TYPE_U8_2BIT,   0,           3,          &(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num) },
+			{ 610,            9,         107,       0,             110,      107,      MMI_VAL_TYPE_U8_2BIT,   0,           11,          &(g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num) },
 			{ 618,            3,         120,       0,             0,        120,      MMI_VAL_TYPE_NONE,      0,           0,           NULL },
 			{ 619,            9,         133,       0,             110,      133,      MMI_VAL_TYPE_U8_3BIT,   14,          111,         &(g_t_share_data.t_sys_cfg.t_sys_param.u8_seg1_fdl_master_add) },
 		    { 620,            9,         146,       0,             110,      146,      MMI_VAL_TYPE_U8_3BIT,   14,          111,         &(g_t_share_data.t_sys_cfg.t_sys_param.u8_seg2_fdl_master_add) },
