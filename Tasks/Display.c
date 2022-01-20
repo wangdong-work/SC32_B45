@@ -3234,6 +3234,7 @@ static void v_disp_batt2_data_init(void)
 static U8_T u8_disp_get_product_type(void)
 {
 	U8_T u8_type;
+	return PRODUCT_TYPE_SC32;
 	
 	s32_flash_dataflash_read(DATAFLASH_MODEL_ADDR, &u8_type, 1);
 	

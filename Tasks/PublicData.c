@@ -223,19 +223,19 @@ const FDL_SWT_PAIR_T g_u8_ecswt_state_from_fdl[] = {
 	FC10_SWT},
 	//8S3
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[17]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[0].u8_state),
+	&(g_t_share_data.t_rt_data.t_feeder_panel[0].t_feeder[17].u8_state),
 	FC10_SWT},
 	//8S4
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[18]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[1].u8_state),
+	&(g_t_share_data.t_rt_data.t_feeder_panel[0].t_feeder[18].u8_state),
 	FC10_SWT},
 	//8S5
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[19]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[2].u8_state),
+	&(g_t_share_data.t_rt_data.t_feeder_panel[0].t_feeder[19].u8_state),
 	FC10_SWT},
 	//
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[20]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[3].u8_state),
+	&(g_t_share_data.t_rt_data.t_feeder_panel[0].t_feeder[20].u8_state),
 	FC10_SWT},
 	//
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[21]), 
