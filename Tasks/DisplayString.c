@@ -781,46 +781,47 @@ const STR_T g_s_batt_record[][2] =            //电池充放电转换记录名称
 /************************** 电操开关名称显示字符串定义 ********************************/
 const STR_T g_s_ctrl_swt_name[FACT_SWT_CTRL_MAX][2] =            //电操开关名称
 {	//1#RC10电操开关
-	{ "4S1开关",                   "4S1 Switch   "    },
-	{ "4S2开关",                   "4S2 Switch   "    },
-	{ "4S3开关",                   "4S3 Switch   "    },	
-	{ "4S4开关",                   "4S4 Switch   "    },
-	{ "5S1开关",                   "5S1 Switch   "    },
-	{ "5S2开关",                   "5S2 Switch   "    },
-	{ "5S3开关",                   "5S3 Switch   "    },
-	{ "5S4开关",                   "5S4 Switch   "   },
+	{ "QF1开关",                   "QF1 Switch   "    },
+	{ "QF2开关",                   "QF2 Switch   "    },
+	{ "未定义1",                   "Reserved 1	"	},
+	{ "未定义2",                   "Reserved 2	"	},
+	{ "未定义3",                   "Reserved 3	"	},
+	{ "未定义4",                   "Reserved 4	"	},
+	{ "未定义5",                   "Reserved 5	"	},
+	{ "未定义6",                   "Reserved 6	"	},
+
 
 	//2#RC10电操开关
-	{ "5S5开关",                   "5S5 Switch   "    },
-	{ "5S6开关",                   "5S6 Switch   "    },
-	{ "S1开关",                    "S1 Switch   "     },
-	{ "S2开关",                    "S2 Switch   "     },
-	{ "S3开关",                    "S3 Switch   "     },
-	{ "S4开关",                    "S4 Switch   "     },
-	{ "S5开关",                    "S5 Switch   "     },
-	{ "8S1开关",                   "8S1 Switch   "    },
+	{ "1HK开关",                   "1HK Switch   "    },
+	{ "2HK开关",                   "2HK Switch   "    },
+	{ "3HK开关",                   "3HK Switch   "    },
+	{ "4HK开关",                   "4HK Switch   "    },
+	{ "5HK开关",                   "5HK Switch   "    },
+	{ "6HK开关",                   "6HK Switch   "    },
+	{ "7HK开关",                   "7HK Switch   "    },
+	{ "8HK开关",                   "8HK Switch   "    },
 
 	//3#RC10电操开关
-	{ "8S2开关",                   "3S9 Switch   "    },
-	{ "8S3开关",                  "3S10 Switch   "    },
-	{ "8S4开关",                  "3S11 Switch   "    },
-	{ "8S5开关",                  "3S12 Switch   "    },
+	{ "1KK开关",                   "1KK Switch   "    },
+	{ "2KK开关",                   "2KK Switch   "    },
+	{ "3KK开关",                   "3KK Switch   "    },
+	{ "4KK开关",                   "4KK Switch   "    },
+	{ "5KK开关",                   "5KK Switch   "    },
+	{ "6KK开关",                   "6KK Switch   "    },
+	{ "7KK开关",                   "7KK Switch   "    },
+	{ "8KK开关",                   "8KK Switch   "    },
+
+	//4#RC10电操开关	
+	{ "9KK开关",                  "9KK Switch   "    },
+	{ "10KK开关",                 "10KK Switch   "   },
 	{ "未定义1",                  "Reserved 1	"	},
 	{ "未定义2",                  "Reserved 2	"	},
 	{ "未定义3",                  "Reserved 3	"	},
 	{ "未定义4",                  "Reserved 4	"	},
+	{ "未定义5",                  "Reserved 5	"	},
+	{ "未定义6",                  "Reserved 6	"	},
 
 	/*                    以下数据此版本无效                       */
-	//4#RC10电操开关	
-	{ "4S1开关",                   "4S1 Switch   "    },
-	{ "4S2开关",                   "4S2 Switch   "    },
-	{ "4S3开关",                   "4S3 Switch   "    },
-	{ "4S4开关",                   "4S4 Switch   "    },
-	{ "4S5开关",                   "4S5 Switch   "    },
-	{ "4S6开关",                   "4S6 Switch   "    },
-	{ "4S7开关",                   "4S7 Switch   "    },
-	{ "4S8开关",                   "4S8 Switch   "    },
-	
 	//5#RC10电操开关	
 	{ "4S9开关",                   "4S9 Switch   "    },
 	{ "4S10开关",                  "4S10 Switch   "    },

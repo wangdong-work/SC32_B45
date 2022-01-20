@@ -3234,6 +3234,8 @@ static void v_disp_batt2_data_init(void)
 static U8_T u8_disp_get_product_type(void)
 {
 	U8_T u8_type;
+
+	return PRODUCT_TYPE_SC32;
 	
 	s32_flash_dataflash_read(DATAFLASH_MODEL_ADDR, &u8_type, 1);
 	
@@ -3339,7 +3341,7 @@ void v_disp_cfg_data_restore(void)
 		g_t_share_data.t_sys_cfg.t_sys_param.u8_batt_dis_output = 6;                    //核容指示，范围0~6，默认6
 	}
 	
-	g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num = 3;
+	g_t_share_data.t_sys_cfg.t_sys_param.u8_rc10_module_num = 4;
 	g_t_share_data.t_sys_cfg.t_dc_panel.t_rect.u8_d21_num = 0;                      //默认没有D21模块
 	g_t_share_data.t_sys_cfg.t_batt_mgmt.e_mode[0] = AUTO_MODE;                        // 电池管理方式 手动、自动
 	g_t_share_data.t_sys_cfg.t_batt_mgmt.e_mode[1] = AUTO_MODE;                        // 电池管理方式 手动、自动
@@ -10891,12 +10893,12 @@ static void v_disp_set_key_handler(U16_T u16_key_val)
 					if (pt_feeder_module->u8_curr_feeder_num > 0)
 						i++;
 					u8_max_num = FEEDER_BRANCH_MAX / i;
-					if (pt_feeder_module->u8_alarm_feeder_num > u8_max_num)
-						pt_feeder_module->u8_alarm_feeder_num = u8_max_num;
-					if (pt_feeder_module->u8_state_feeder_num > u8_max_num)
-						pt_feeder_module->u8_state_feeder_num = u8_max_num;
-					if (pt_feeder_module->u8_insu_feeder_num > u8_max_num)
-						pt_feeder_module->u8_insu_feeder_num = u8_max_num;
+					if (pt_feeder_module->u8_alarm_feeder_num > FEEDER_ALARM_SET_MAX)
+						pt_feeder_module->u8_alarm_feeder_num = FEEDER_ALARM_SET_MAX;
+					if (pt_feeder_module->u8_state_feeder_num > FEEDER_STATUS_SET_MAX)
+						pt_feeder_module->u8_state_feeder_num = FEEDER_STATUS_SET_MAX;
+					if (pt_feeder_module->u8_insu_feeder_num > FEEDER_RES_SET_MAX)
+						pt_feeder_module->u8_insu_feeder_num = FEEDER_RES_SET_MAX;
 					if (pt_feeder_module->u8_curr_feeder_num > u8_max_num)
 						pt_feeder_module->u8_curr_feeder_num = u8_max_num;
 						
