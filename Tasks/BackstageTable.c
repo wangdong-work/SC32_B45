@@ -40562,7 +40562,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关1状态查询，索引2456
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[0]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_raw_swt_state[0]),
 		0x0001,
 		BS_TYPE_U8,
 		13385,
@@ -40574,7 +40574,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关2状态查询，索引2457
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[1]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_raw_swt_state[1]),
 		0x0001,
 		BS_TYPE_U8,
 		13386,
@@ -40754,7 +40754,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关17状态查询，索引2472
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[16]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[0]),
 		0x0001,
 		BS_TYPE_U8,
 		13401,
@@ -40766,7 +40766,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关18状态查询，索引2473
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[17]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[1]),
 		0x0001,
 		BS_TYPE_U8,
 		13402,
@@ -40778,7 +40778,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关19状态查询，索引2474
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[18]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[22]),
 		0x0001,
 		BS_TYPE_U8,
 		13403,
@@ -40790,7 +40790,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关20状态查询，索引2475
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[19]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[23]),
 		0x0001,
 		BS_TYPE_U8,
 		13404,
@@ -40802,7 +40802,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关21状态查询，索引2476
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[0]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[24]),
 		0x0001,
 		BS_TYPE_U8,
 		13405,
@@ -40814,7 +40814,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关22状态查询，索引2477
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[1]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[25]),
 		0x0001,
 		BS_TYPE_U8,
 		13406,
@@ -40826,7 +40826,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关23状态查询，索引2478
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[2]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[26]),
 		0x0001,
 		BS_TYPE_U8,
 		13407,
@@ -40838,7 +40838,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关24状态查询，索引2479
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[3]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[27]),
 		0x0001,
 		BS_TYPE_U8,
 		13408,
@@ -40850,7 +40850,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关25状态查询，索引2480
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[4]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[28]),
 		0x0001,
 		BS_TYPE_U8,
 		13409,
@@ -40862,7 +40862,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关26状态查询，索引2481
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[5]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[29]),
 		0x0001,
 		BS_TYPE_U8,
 		13410,
@@ -40874,7 +40874,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关27状态查询，索引2482
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[6]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[30]),
 		0x0001,
 		BS_TYPE_U8,
 		13411,
@@ -40886,7 +40886,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关28状态查询，索引2483
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[7]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[31]),
 		0x0001,
 		BS_TYPE_U8,
 		13412,
@@ -40898,7 +40898,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关29状态查询，索引2484
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[8]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[32]),
 		0x0001,
 		BS_TYPE_U8,
 		13413,
@@ -40910,7 +40910,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关30状态查询，索引2485
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[9]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[33]),
 		0x0001,
 		BS_TYPE_U8,
 		13414,
@@ -40922,7 +40922,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关31状态查询，索引2486
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[10]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[34]),
 		0x0001,
 		BS_TYPE_U8,
 		13415,
@@ -40934,7 +40934,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关32状态查询，索引2487
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[11]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[35]),  // 2K14
 		0x0001,
 		BS_TYPE_U8,
 		13416,
@@ -40946,7 +40946,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关33状态查询，索引2488
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[12]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[36]), // 以下无效
 		0x0001,
 		BS_TYPE_U8,
 		13417,
@@ -40958,7 +40958,7 @@ const YX_ASSEMBLE_T g_t_yx_assemble[BS_YX_SIZE] =
 	
 	//系统电操开关34状态查询，索引2489
 	{
-		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[13]),
+		&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[37]),
 		0x0001,
 		BS_TYPE_U8,
 		13418,
