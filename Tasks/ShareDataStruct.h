@@ -49,7 +49,7 @@ pf       power factor 功率因数
 */
 
 #define CFG_DATA_VERSION_L  4     //配置数据区版本的低字节
-#define CFG_DATA_VERSION_H  2     //配置数据区版本的高字节
+#define CFG_DATA_VERSION_H  3     //配置数据区版本的高字节
 
 #define ACS_FEEDER_MODULE_MAX 3   // 交流屏馈线模块最大数量
 #define DC10_SWT_BRANCH_MAX  16    // 开关量最大支路数
