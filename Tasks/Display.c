@@ -10987,12 +10987,12 @@ static void v_disp_set_key_handler(U16_T u16_key_val)
 					if (pt_feeder_module->u8_curr_feeder_num > 0)
 						i++;
 					u8_max_num = FEEDER_BRANCH_MAX / i;
-					if (pt_feeder_module->u8_alarm_feeder_num > u8_max_num)
-						pt_feeder_module->u8_alarm_feeder_num = u8_max_num;
-					if (pt_feeder_module->u8_state_feeder_num > u8_max_num)
-						pt_feeder_module->u8_state_feeder_num = u8_max_num;
-					if (pt_feeder_module->u8_insu_feeder_num > u8_max_num)
-						pt_feeder_module->u8_insu_feeder_num = u8_max_num;
+					if (pt_feeder_module->u8_alarm_feeder_num > FEEDER_ALARM_SET_MAX)
+						pt_feeder_module->u8_alarm_feeder_num = FEEDER_ALARM_SET_MAX;
+					if (pt_feeder_module->u8_state_feeder_num > FEEDER_STATUS_SET_MAX)
+						pt_feeder_module->u8_state_feeder_num = FEEDER_STATUS_SET_MAX;
+					if (pt_feeder_module->u8_insu_feeder_num > FEEDER_RES_SET_MAX)
+						pt_feeder_module->u8_insu_feeder_num = FEEDER_RES_SET_MAX;
 					if (pt_feeder_module->u8_curr_feeder_num > u8_max_num)
 						pt_feeder_module->u8_curr_feeder_num = u8_max_num;
 						

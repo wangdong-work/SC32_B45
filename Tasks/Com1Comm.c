@@ -3930,7 +3930,7 @@ static void v_com1_motor_switch_sync()
 	if( u32_delay_time_elapse(m_u32_switch_sync_time, u32_cur_time) >= COM1_SWT_SYNC_UPDATE_TM )
 	{	//定期将当前电操开关状态关联更新到电操控制量，以解决电操当前状态与控制量不同步而不能控制问题。
 		os_mut_wait(g_mut_share_data, 0xFFFF);
-
+		
 		for (i=0; i < FACT_SWT_CTRL_MAX; i++)
 		{
 			if ( g_t_swt_sheet[i].u8_swt_valid )

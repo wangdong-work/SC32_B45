@@ -277,116 +277,116 @@ const FDL_SWT_PAIR_T g_u8_ecswt_state_from_fdl[] = {
 	
 	//
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[22]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[1].t_feeder[0].u8_state),
+	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[0].u8_state),
 	FC10_SWT},
 	//
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[23]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[1].t_feeder[1].u8_state),
+	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[1].u8_state),
 	FC10_SWT},
 	//
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[24]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[1].t_feeder[2].u8_state),
+	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[2].u8_state),
 	FC10_SWT},
 	//
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[25]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[1].t_feeder[3].u8_state),
+	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[3].u8_state),
 	FC10_SWT},
 	//
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[26]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[1].t_feeder[4].u8_state),
+	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[4].u8_state),
 	FC10_SWT},
 	//
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[27]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[1].t_feeder[5].u8_state),
+	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[5].u8_state),
 	FC10_SWT},
 	//
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[28]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[1].t_feeder[6].u8_state),
+	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[6].u8_state),
 	FC10_SWT},
 	//
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[29]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[1].t_feeder[7].u8_state),
+	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[7].u8_state),
 	FC10_SWT},
 	//
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[30]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[1].t_feeder[8].u8_state),
+	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[8].u8_state),
 	FC10_SWT},
 	//
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[31]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[1].t_feeder[9].u8_state),
+	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[9].u8_state),
 	FC10_SWT},
 	//
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[32]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[1].t_feeder[10].u8_state),
+	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[10].u8_state),
 	FC10_SWT},
 	//
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[33]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[1].t_feeder[11].u8_state),
+	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[11].u8_state),
 	FC10_SWT},
 
 	//
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[34]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[1].t_feeder[12].u8_state),
+	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[12].u8_state),
 	FC10_SWT},
 
 	//
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[35]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[1].t_feeder[13].u8_state),
+	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[13].u8_state),
 	FC10_SWT},
 
 	//
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[36]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[1].t_feeder[14].u8_state),
+	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[14].u8_state),
 	FC10_SWT},
 
 	//
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[37]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[1].t_feeder[15].u8_state),
+	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[15].u8_state),
 	FC10_SWT},
 
 	//
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[38]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[1].t_feeder[16].u8_state),
+	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[16].u8_state),
 	FC10_SWT},
 
 	//
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[39]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[1].t_feeder[17].u8_state),
+	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[17].u8_state),
 	FC10_SWT},
 
 	//
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[40]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[1].t_feeder[18].u8_state),
+	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[18].u8_state),
 	FC10_SWT},
 
 	//
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[41]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[1].t_feeder[19].u8_state),
+	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[19].u8_state),
 	FC10_SWT},
 
 	//AC 3S9
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[42]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[1].t_feeder[20].u8_state),
+	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[20].u8_state),
 	FC10_SWT},
 
 	//AC 3S10
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[43]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[1].t_feeder[21].u8_state),
+	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[21].u8_state),
 	FC10_SWT},
 
 	//AC 3S11
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[44]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[1].t_feeder[22].u8_state),
+	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[22].u8_state),
 	FC10_SWT},
 
 	//AC 3S12
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[45]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[1].t_feeder[23].u8_state),
+	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[23].u8_state),
 	FC10_SWT},
 
 	//AC 3S13
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[46]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[1].t_feeder[24].u8_state),
+	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[24].u8_state),
 	FC10_SWT},
 
 	
