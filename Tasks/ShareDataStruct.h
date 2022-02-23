@@ -65,9 +65,9 @@ pf       power factor 功率因数
 #define FEEDER_PANEL_MAX  8        // 馈线屏最大数量
 #define FEEDER_BRANCH_MAX 64       // 馈出支路最大数量
 
-#define FEEDER_ALARM_SET_MAX 22       // 馈出支路告警可设值最大数量
-#define FEEDER_STATUS_SET_MAX 22      // 馈出支路状态可设值最大数量
-#define FEEDER_RES_SET_MAX 19         // 馈出支路绝缘可设值最大数量
+#define FEEDER_ALARM_SET_MAX 24       // 馈出支路告警可设值最大数量
+#define FEEDER_STATUS_SET_MAX 24      // 馈出支路状态可设值最大数量
+#define FEEDER_RES_SET_MAX 16         // 馈出支路绝缘可设值最大数量
 
 
 #define DCDC_MODULE_MAX        8   // 通信模块最大数量
