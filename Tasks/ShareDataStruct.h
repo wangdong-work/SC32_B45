@@ -49,7 +49,7 @@ pf       power factor 功率因数
 */
 
 #define CFG_DATA_VERSION_L  4     //配置数据区版本的低字节
-#define CFG_DATA_VERSION_H  3     //配置数据区版本的高字节
+#define CFG_DATA_VERSION_H  4     //配置数据区版本的高字节
 
 #define ACS_FEEDER_MODULE_MAX 3   // 交流屏馈线模块最大数量
 #define DC10_SWT_BRANCH_MAX  16    // 开关量最大支路数
@@ -65,9 +65,9 @@ pf       power factor 功率因数
 #define FEEDER_PANEL_MAX  8        // 馈线屏最大数量
 #define FEEDER_BRANCH_MAX 64       // 馈出支路最大数量
 
-#define FEEDER_ALARM_SET_MAX 24       // 馈出支路告警可设值最大数量
-#define FEEDER_STATUS_SET_MAX 24      // 馈出支路状态可设值最大数量
-#define FEEDER_RES_SET_MAX 16         // 馈出支路绝缘可设值最大数量
+#define FEEDER_ALARM_SET_MAX 26       // 馈出支路告警可设值最大数量
+#define FEEDER_STATUS_SET_MAX 26      // 馈出支路状态可设值最大数量
+#define FEEDER_RES_SET_MAX 12         // 馈出支路绝缘可设值最大数量
 
 
 #define DCDC_MODULE_MAX        8   // 通信模块最大数量

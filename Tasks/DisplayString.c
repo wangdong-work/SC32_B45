@@ -794,21 +794,23 @@ const STR_T g_s_ctrl_swt_name[FACT_SWT_CTRL_MAX][2] =            //电操开关名称
 	{ "1K7开关",                   "1K7 Switch   "    },
 	{ "1K8开关",                   "1K8 Switch   "    },
 	{ "1K9开关",                   "1K9 Switch   "    },
-	{ "1K10开关",                  "1K10 Switch   "    },
-	{ "1K11开关",                  "1K11 Switch   "    },
-	{ "1K12开关",                  "1K12 Switch   "    },
-	{ "1K13开关",                  "1K13 Switch   "    },
-	{ "1K14开关",                  "1K14 Switch   "    },
-
-	//3#RC10电操开关
 	{ "3K开关",                    "3K Switch   "    },
-	{ "4K开关",                   "4K Switch   "    },
+	{ "4K开关",                    "4K Switch   "    },
 	{ "2K1开关",                   "2K1 Switch   "    },
 	{ "2K2开关",                   "2K2 Switch   "    },
 	{ "2K3开关",                   "2K3 Switch   "    },
+
+	//3#RC10电操开关
 	{ "2K4开关",                   "2K4 Switch   "    },
 	{ "2K5开关",                   "2K5 Switch   "    },
 	{ "2K6开关",                   "2K6 Switch   "    },
+	{ "2K7开关",                   "2K7 Switch   "    },
+	{ "2K8开关",                   "2K8 Switch   "    },
+	{ "2K9开关",                   "2K9 Switch   "    },
+	{ "2K10开关",                  "2K10 Switch   "    },
+	{ "未定义1",                   "Reserved 1   "    },
+
+	/*                    以下数据此版本无效                       */
 
 	//4#RC10电操开关	
 	{ "2K7开关",                   "2K7 Switch   "    },
@@ -818,9 +820,9 @@ const STR_T g_s_ctrl_swt_name[FACT_SWT_CTRL_MAX][2] =            //电操开关名称
 	{ "2K11开关",                  "2K11 Switch	"	},
 	{ "2K12开关",                  "2K12 Switch	"	},
 	{ "2K13开关",                  "2K13 Switch	"	},
-	{ "2K14开关",                  "2K14 Switch	"	},
+	{ "未定义1",                   "Reserved 1   "    },
 
-	/*                    以下数据此版本无效                       */
+
 	//5#RC10电操开关	
 	{ "4S9开关",                   "4S9 Switch   "    },
 	{ "4S10开关",                  "4S10 Switch   "    },

@@ -83,101 +83,101 @@ const RC10_SWT_ITEM_T g_t_swt_sheet[FACT_SWT_CTRL_MAX] = {
 	//1K7
 	{VALID, 
 	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[1].u8_swt_ctrl[0]), 
-	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[9])},
+	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[8])},
 	//1K8
 	{VALID, 
 	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[1].u8_swt_ctrl[1]), 
-	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[10])},
+	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[9])},
 	//1K9
 	{VALID, 
 	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[1].u8_swt_ctrl[2]), 
-	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[11])},
-	//1K10
-	{VALID, 
-	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[1].u8_swt_ctrl[3]), 
-	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[12])},
-	//1K11
-	{VALID, 
-	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[1].u8_swt_ctrl[4]), 
-	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[13])},
-	//1K12
-	{VALID, 
-	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[1].u8_swt_ctrl[5]), 
-	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[14])},
-	//1K13
-	{VALID, 
-	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[1].u8_swt_ctrl[6]), 
-	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[15])},
-	//1K14
-	{VALID, 
-	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[1].u8_swt_ctrl[7]), 
-	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[16])},
-
-	//3#RC10模块最多可电操8个开关
+	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[10])},
 	//3K
 	{VALID, 
-	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[2].u8_swt_ctrl[0]), 
+	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[1].u8_swt_ctrl[3]), 
 	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[0])},
 	//4K
 	{VALID, 
-	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[2].u8_swt_ctrl[1]), 
+	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[1].u8_swt_ctrl[4]), 
 	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[1])},
 	//2K1
 	{VALID, 
-	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[2].u8_swt_ctrl[2]), 
-	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[22])},
+	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[1].u8_swt_ctrl[5]), 
+	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[11])},
 	//2K2
 	{VALID, 
-	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[2].u8_swt_ctrl[3]), 
-	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[23])},
+	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[1].u8_swt_ctrl[6]), 
+	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[12])},
 	//2K3
 	{VALID, 
-	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[2].u8_swt_ctrl[4]), 
-	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[24])},
+	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[1].u8_swt_ctrl[7]), 
+	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[13])},
+
+	//3#RC10模块最多可电操8个开关
 	//2K4
 	{VALID, 
-	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[2].u8_swt_ctrl[5]), 
-	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[25])},
+	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[2].u8_swt_ctrl[0]), 
+	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[14])},
 	//2K5
 	{VALID, 
-	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[2].u8_swt_ctrl[6]), 
-	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[26])},
+	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[2].u8_swt_ctrl[1]), 
+	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[15])},
 	//2K6
 	{VALID, 
+	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[2].u8_swt_ctrl[2]), 
+	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[16])},
+	//2K7
+	{VALID, 
+	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[2].u8_swt_ctrl[3]), 
+	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[17])},
+	//2K8
+	{VALID, 
+	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[2].u8_swt_ctrl[4]), 
+	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[18])},
+	//2K9
+	{VALID, 
+	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[2].u8_swt_ctrl[5]), 
+	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[19])},
+	//2K10
+	{VALID, 
+	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[2].u8_swt_ctrl[6]), 
+	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[20])},
+	//
+	{INVALID, 
 	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[2].u8_swt_ctrl[7]), 
 	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[27])},
 
 	//4#RC10模块最多可电操8个开关
-	//2K7
-	{VALID, 
+	//
+	{INVALID, 
 	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[3].u8_swt_ctrl[0]), 
 	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[28])},
-	//2K8
-	{VALID, 
+	//
+	{INVALID, 
 	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[3].u8_swt_ctrl[1]), 
 	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[29])},
-	//2K9
-	{VALID, 
+	//
+	{INVALID, 
 	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[3].u8_swt_ctrl[2]), 
 	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[30])},
-	//2K10
-	{VALID, 
+	//
+	{INVALID, 
 	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[3].u8_swt_ctrl[3]), 
 	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[31])},
-	//2K11
-	{VALID, 
+	//
+	{INVALID, 
 	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[3].u8_swt_ctrl[4]), 
 	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[32])},
-	//2K12
-	{VALID, 
+	//
+	{INVALID, 
 	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[3].u8_swt_ctrl[5]), 
 	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[33])},
-	//2K13
-	{VALID, 
+	//
+	{INVALID, 
 	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[3].u8_swt_ctrl[6]), 
 	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[34])},
-	//2K14
-	{VALID, 
+	//
+	{INVALID, 
 	&(g_t_share_data.t_sys_cfg.t_swt_ctrl[3].u8_swt_ctrl[7]), 
 	&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[35])},
 
@@ -186,141 +186,98 @@ const RC10_SWT_ITEM_T g_t_swt_sheet[FACT_SWT_CTRL_MAX] = {
 //访问以下结构对象数组需加全局锁
 const FDL_SWT_PAIR_T g_u8_ecswt_state_from_fdl[] = {
 	//目标开关状态值，源开关状态值(由FC10模块采样)
-	//1HK
+	//3K
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[0]), 
 	&(g_t_share_data.t_rt_data.t_feeder_panel[0].t_feeder[0].u8_state),
 	FC10_SWT},
-	//2HK
+	//4K
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[1]), 
 	&(g_t_share_data.t_rt_data.t_feeder_panel[0].t_feeder[1].u8_state),
 	FC10_SWT},
-	//3HK
+	//1K1
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[2]), 
 	&(g_t_share_data.t_rt_data.t_feeder_panel[0].t_feeder[2].u8_state),
 	FC10_SWT},
-	//4HK
+	//1K2
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[3]), 
 	&(g_t_share_data.t_rt_data.t_feeder_panel[0].t_feeder[3].u8_state),
 	FC10_SWT},
-	//5HK
+	//1K3
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[4]), 
 	&(g_t_share_data.t_rt_data.t_feeder_panel[0].t_feeder[4].u8_state),
 	FC10_SWT},
-	//6HK
+	//1K4
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[5]), 
 	&(g_t_share_data.t_rt_data.t_feeder_panel[0].t_feeder[5].u8_state),
 	FC10_SWT},
-	//7HK
+	//1K5
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[6]), 
 	&(g_t_share_data.t_rt_data.t_feeder_panel[0].t_feeder[6].u8_state),
 	FC10_SWT},
-	//1KK
+	//1K6
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[7]), 
 	&(g_t_share_data.t_rt_data.t_feeder_panel[0].t_feeder[7].u8_state),
 	FC10_SWT},
-	//5S5
+	//1K7
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[8]), 
 	&(g_t_share_data.t_rt_data.t_feeder_panel[0].t_feeder[8].u8_state),
 	FC10_SWT},
-	//2KK
+	//1K8
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[9]), 
 	&(g_t_share_data.t_rt_data.t_feeder_panel[0].t_feeder[9].u8_state),
 	FC10_SWT},
-	//3KK
+	//1K9
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[10]), 
 	&(g_t_share_data.t_rt_data.t_feeder_panel[0].t_feeder[10].u8_state),
 	FC10_SWT},
-	//4KK
+
+
+	//2K1
 	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[11]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[0].t_feeder[11].u8_state),
-	FC10_SWT},	
-	//5KK
-	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[12]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[0].t_feeder[12].u8_state),
-	FC10_SWT},
-	//6KK
-	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[13]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[0].t_feeder[13].u8_state),
-	FC10_SWT},
-	//7KK
-	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[14]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[0].t_feeder[14].u8_state),
-	FC10_SWT},
-	//8KK
-	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[15]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[0].t_feeder[15].u8_state),
-	FC10_SWT},
-	//9KK
-	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[16]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[0].t_feeder[16].u8_state),
-	FC10_SWT},
-	//10KK
-	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[17]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[0].t_feeder[17].u8_state),
-	FC10_SWT},
-	//9HK
-	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[18]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[0].t_feeder[18].u8_state),
-	FC10_SWT},
-	//11K
-	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[19]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[0].t_feeder[19].u8_state),
-	FC10_SWT},
-	//12K
-	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[20]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[0].t_feeder[20].u8_state),
-	FC10_SWT},
-	//13K
-	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[21]), 
-	&(g_t_share_data.t_rt_data.t_feeder_panel[0].t_feeder[21].u8_state),
-	FC10_SWT},
-	
-	//
-	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[22]), 
 	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[0].u8_state),
 	FC10_SWT},
-	//
-	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[23]), 
+	//2K2
+	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[12]), 
 	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[1].u8_state),
 	FC10_SWT},
-	//
-	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[24]), 
+	//2K3
+	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[13]), 
 	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[2].u8_state),
 	FC10_SWT},
-	//
-	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[25]), 
+	//2K4
+	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[14]), 
 	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[3].u8_state),
 	FC10_SWT},
-	//
-	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[26]), 
+	//2K5
+	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[15]), 
 	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[4].u8_state),
 	FC10_SWT},
-	//
-	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[27]), 
+	//2K6
+	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[16]), 
 	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[5].u8_state),
 	FC10_SWT},
-	//
-	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[28]), 
+	//2K7
+	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[17]), 
 	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[6].u8_state),
 	FC10_SWT},
-	//
-	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[29]), 
+	//2K8
+	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[18]), 
 	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[7].u8_state),
 	FC10_SWT},
-	//
-	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[30]), 
+	//2K9
+	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[19]), 
 	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[8].u8_state),
 	FC10_SWT},
-	//
-	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[31]), 
+	//2K10
+	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[20]), // 2K10
 	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[9].u8_state),
 	FC10_SWT},
 	//
-	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[32]), 
+	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[21]), // 以下无效
 	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[10].u8_state),
 	FC10_SWT},
 	//
-	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[33]), 
+	{&(g_t_share_data.t_rt_data.t_dc_panel.t_swt.u8_fdl_swt_state[22]), 
 	&(g_t_share_data.t_rt_data.t_feeder_panel[4].t_feeder[11].u8_state),
 	FC10_SWT},
 

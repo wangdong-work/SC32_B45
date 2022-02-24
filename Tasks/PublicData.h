@@ -25,7 +25,7 @@ Copyright (C) 深圳英可瑞科技开发有限公司
 #define HW_VERSION "V1.0"
 
 //公司代号.订制序号.标准软件版本号.订制软件版本序号
-#define SW_VERSION "C15.2200.C42.1"
+#define SW_VERSION "C15.2200.C42.2"
 
 //配置工具版本
 #define TOOL_VERSION "V1.16"  //增加后台“交流窜入电压及报警数据”上传
